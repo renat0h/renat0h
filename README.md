@@ -1,6 +1,6 @@
 BOAS VIDAS AO MEU PERFIL✨✨
 
-Meu nome é RENATO HUBER
+Meu nome é RENATO
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na linguagem JavaScript
